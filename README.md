@@ -1,6 +1,6 @@
 # CAN-Based-Temperature-Monitoring-System
 
-## 📖 Overview
+## 📖 Overview :
 
 This repository contains two embedded systems projects developed using **Arduino Uno**, **ESP8266 NodeMCU**, **MCP2515 CAN Bus modules**, and a **DHT22 Temperature Sensor**. The projects demonstrate the complete development workflow, starting from CAN Bus communication testing and progressing to a temperature monitoring system with an automatic LED warning.
 
@@ -8,7 +8,7 @@ The repository is organized into two independent projects. The first project val
 
 ---
 
-# 📂 Repository Structure
+# 📂 Repository Structure :
 
 ```text
 Arduino-ESP8266-DHT22-Communication
@@ -34,7 +34,7 @@ Arduino-ESP8266-DHT22-Communication
 
 # 📁 Repository Contents
 
-## 1️⃣ Arduino_To_ESP8266_Test
+## 1️⃣ Arduino_To_ESP8266_Test :
 
 This project demonstrates **CAN Bus communication testing** between an Arduino Uno and an ESP8266 NodeMCU using **two MCP2515 CAN Bus modules**.
 
@@ -48,7 +48,7 @@ For implementation details, wiring, source code, and results, refer to:
 
 ---
 
-## 2️⃣ Arduino_ESP8266_DHT22
+## 2️⃣ Arduino_ESP8266_DHT22 :
 
 This is the main embedded systems project in this repository.
 
@@ -62,7 +62,7 @@ For complete implementation details, hardware connections, circuit diagrams, wor
 
 ---
 
-# 🛠 Hardware Used
+# 🛠 Hardware Used :
 
 * Arduino Uno
 * ESP8266 NodeMCU
@@ -76,7 +76,7 @@ For complete implementation details, hardware connections, circuit diagrams, wor
 
 ---
 
-# 💻 Software & Libraries
+# 💻 Software & Libraries :
 
 ### Software
 
@@ -91,7 +91,7 @@ For complete implementation details, hardware connections, circuit diagrams, wor
 
 ---
 
-# 🎯 Skills Demonstrated
+# 🎯 Skills Demonstrated :
 
 * Embedded C/C++ Programming
 * Arduino Programming
@@ -108,7 +108,7 @@ For complete implementation details, hardware connections, circuit diagrams, wor
 
 ---
 
-# 📸 Repository Contents
+# 📸 Repository Contents :
 
 Each project folder contains:
 
@@ -120,7 +120,7 @@ Each project folder contains:
 
 ---
 
-# 🚀 Future Enhancements
+# 🚀 Future Enhancements :
 
 * Transmit both temperature and humidity values over the CAN Bus.
 * Integrate cloud-based data logging.
@@ -131,7 +131,7 @@ Each project folder contains:
 
 ---
 
-# 👨‍💻 Author
+# 👨‍💻 Author :
 
 **Your Name**
 
