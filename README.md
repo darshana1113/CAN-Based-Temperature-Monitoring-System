@@ -32,7 +32,7 @@ Arduino-ESP8266-DHT22-Communication
 
 ---
 
-# 📁 Repository Contents
+# 📁 Repository Contents :
 
 ## 1️⃣ Arduino_To_ESP8266_Test :
 
